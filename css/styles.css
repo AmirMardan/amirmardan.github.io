@@ -24,7 +24,7 @@ header .container{
 #about img{
     max-height: 20em;
     max-width: 20em;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 .main-container{
